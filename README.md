@@ -4,6 +4,22 @@ Welcome to the Large Language Models Showcase! This repository is a curated coll
 
 In this repository, you'll find a variety of examples and demonstrations of language models being used for text generation, search, question answering and more. You'll also find tutorials and resources for building your own applications, as well as links to other repositories and resources for further learning.
 
-# Contribution
+---
+
+## Showcases
+
+[ChatGPT memory](https://github.com/continuum-llms/chatgpt-memory)
+
+> Allows to scale the ChatGPT API to multiple simultaneous sessions with infinite contextual and adaptive memory powered by GPT and Redis datastore.
+
+[vscode-chatgpt](https://chatgptai.dev/)
+
+> A Visual Studio Code - ChatGPT Integration
+
+## Contribution
 
 Contributions to this repository are welcome and encouraged! If you have any interesting applications or tutorials that use language models, please feel free to submit a pull request. Let's showcase the power of AI language models together!
+
+## License
+
+This repository is licensed under the MIT License.
