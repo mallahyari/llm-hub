@@ -178,4 +178,4 @@ Contributions to this repository are welcome and encouraged! If you have any int
 
 ## License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the [MIT License](./LICENSE).
