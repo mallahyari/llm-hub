@@ -8,6 +8,11 @@ In this repository, you'll find a variety of examples and demonstrations of lang
 
 # Showcases
 
+## LangChain
+[Github](https://github.com/hwchase17/langchain)
+> Building applications with LLMs through composability
+
+---
 ## ChatGPT memory
 [Github](https://github.com/continuum-llms/chatgpt-memory)
 
@@ -21,9 +26,19 @@ In this repository, you'll find a variety of examples and demonstrations of lang
 
 ---
 
+## JARVIS
+[Girhub](https://github.com/microsoft/JARVIS)
+> JARVIS, a system to connect LLMs with ML community
+
 ## Marvin
 [Github](https://github.com/PrefectHQ/marvin)
 > a batteries-included library for building AI-powered software. Marvin's job is to integrate AI directly into your codebase by making it look and feel like any other function.
+
+---
+
+## LlamaIndex (GPT Index)
+[Github](https://github.com/jerryjliu/llama_index)
+> LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 
 ---
 
@@ -62,6 +77,13 @@ In this repository, you'll find a variety of examples and demonstrations of lang
 ## Dataless Knowledge Fusion by Merging Weights of Language Models
 [Github](https://github.com/bloomberg/dataless-model-merging)
 > This repository contains the experimental code to reproduce the results in Dataless Knowledge Fusion by Merging Weights of Language Models, a paper to be published during the Eleventh International Conference on Learning Representations (ICLR 2023), to be held May 1-5, 2023 in Kigali, Rwanda.
+
+---
+
+## Prompt Engineering Guide
+[Github](https://github.com/dair-ai/Prompt-Engineering-Guide)
+
+> Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ---
 
