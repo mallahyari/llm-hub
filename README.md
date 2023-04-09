@@ -156,18 +156,18 @@ In this repository, you'll find a variety of examples and demonstrations of lang
 [Website](https://codesquire.ai/)
 > AI code writing assistant for data scientists, engineers, and analysts.Get code completions and suggestions as you type.
 
-
-
-
-
-
-
-<!-- ## Vscode-chatgpt
+ ## Vscode-chatgpt
 [Github](https://chatgptai.dev/)
 
 > A Visual Studio Code - ChatGPT Integration
 
---- -->
+--- 
+
+
+
+
+
+
 
 
 ## Contribution
