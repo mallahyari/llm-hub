@@ -6,15 +6,47 @@ In this repository, you'll find a variety of examples and demonstrations of lang
 
 ---
 
-## Showcases
+# Showcases
 
-[ChatGPT memory](https://github.com/continuum-llms/chatgpt-memory)
+## ChatGPT memory
+[Github](https://github.com/continuum-llms/chatgpt-memory)
 
 > Allows to scale the ChatGPT API to multiple simultaneous sessions with infinite contextual and adaptive memory powered by GPT and Redis datastore.
 
-[vscode-chatgpt](https://chatgptai.dev/)
+---
+
+## Awesome ChatGPT Prompts
+[Github](https://github.com/f/awesome-chatgpt-prompts)
+> This is a collection of prompt examples to be used with the ChatGPT model.
+
+---
+
+## Marvin
+[Github](https://github.com/PrefectHQ/marvin)
+> a batteries-included library for building AI-powered software. Marvin's job is to integrate AI directly into your codebase by making it look and feel like any other function.
+
+---
+
+## OntoGPT
+[Github](https://github.com/monarch-initiative/ontogpt)
+> Generation of Ontologies and Knowledge Bases using GPT.A knowledge extraction tool that uses a large language model to extract semantic information from text
+
+---
+
+## Building a Multi-User Chatbot with Langchain and Pinecone in Next.JS
+[Blog](https://www.pinecone.io/learn/javascript-chatbot/?utm_content=244434553&utm_medium=social&utm_source=twitter&hss_channel=tw-1287624141001109504)
+> Building a chatbot has become a hot skill, and with the release of ChatGPT we see a huge number of chat applications being released. 
+
+---
+
+
+<!-- ## Vscode-chatgpt
+[Github](https://chatgptai.dev/)
 
 > A Visual Studio Code - ChatGPT Integration
+
+--- -->
+
 
 ## Contribution
 
