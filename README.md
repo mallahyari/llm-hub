@@ -301,20 +301,8 @@ In this repository, you'll find a variety of examples and demonstrations of lang
 > With the plethora of large language models (LLMs) and chatbots being released week upon week, often with grandiose claims of their performance, it can be hard to filter out the genuine progress that is being made by the open-source 
 community and which model is the current state of the art. The 🤗 Open LLM Leaderboard aims to track, rank and evaluate LLMs and chatbots as they are released.
 
-🤗 A key advantage of this leaderboard is that anyone from the community can submit a model for automated evaluation on the 🤗 GPU cluster, as long as it is a 🤗 Transformers model with weights on the Hub. Evaluation of 
+> 🤗 A key advantage of this leaderboard is that anyone from the community can submit a model for automated evaluation on the 🤗 GPU cluster, as long as it is a 🤗 Transformers model with weights on the Hub. Evaluation of 
 models with delta-weights for non-commercial licensed models are also supported, such as LLaMa.
-
-📈 In the first tab (LLM Benchmarks), models are evaluated  on 4 key benchmarks from the Eleuther AI Language Model Evaluation Harness , a unified framework to test generative language models on a large number of different 
-evaluation tasks. 
-In the second tab (Human & GPT Evaluations), TK.
-
-Evaluation is performed against 4 popular benchmarks:
-
-AI2 Reasoning Challenge (25-shot) - a set of grade-school science questions.
-HellaSwag (10-shot) - a test of commonsense inference, which is easy for humans (~95%) but challenging for SOTA models.
-MMLU (5-shot) - a test to measure a text model’s multitask accuracy. The test covers 57 tasks including elementary mathematics, US history, computer science, law, and more.
-TruthfulQA (0-shot) - a benchmark to measure whether a language model is truthful in generating answers to questions.
-We chose these benchmarks as they test a variety of reasoning and general knowledge across a wide variety of fields in 0-shot and few-shot setting. 
 
 ---
 
