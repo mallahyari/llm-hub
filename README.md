@@ -294,6 +294,18 @@ In this repository, you'll find a variety of examples and demonstrations of lang
 
 ---
 
+## Open LLM Leaderboard from Hugging Face
+
+[Website](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+
+> With the plethora of large language models (LLMs) and chatbots being released week upon week, often with grandiose claims of their performance, it can be hard to filter out the genuine progress that is being made by the open-source 
+community and which model is the current state of the art. The 🤗 Open LLM Leaderboard aims to track, rank and evaluate LLMs and chatbots as they are released.
+
+> 🤗 A key advantage of this leaderboard is that anyone from the community can submit a model for automated evaluation on the 🤗 GPU cluster, as long as it is a 🤗 Transformers model with weights on the Hub. Evaluation of 
+models with delta-weights for non-commercial licensed models are also supported, such as LLaMa.
+
+---
+
 ## Contribution
 
 Contributions to this repository are welcome and encouraged! If you have any interesting applications or tutorials that use language models, please feel free to submit a pull request. Let's showcase the power of AI language models together!
