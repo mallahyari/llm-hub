@@ -8,7 +8,7 @@ In this repository, you'll find a variety of examples and demonstrations of lang
 
 # Showcases
 
-## June 6, 2023
+## *June 6, 2023*
 
 ## BabyAGI
 [Github](https://github.com/yoheinakajima/babyagi)
